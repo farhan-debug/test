@@ -1,0 +1,3 @@
+[submodule "test-submod-1"]
+	path = test-submod-1
+	url = https://github.com/farhan-debug/test-submod-1.git
